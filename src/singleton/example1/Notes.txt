@@ -1,0 +1,3 @@
+Design Pattern - Singleton Pattern. Cristian Henao (codejavu)
+
+http://codejavu.blogspot.com/2013/07/ejemplo-patron-singleton.html

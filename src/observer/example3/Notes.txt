@@ -1,0 +1,3 @@
+Design Pattern - Observer Pattern. Mi granito de Java
+
+http://migranitodejava.blogspot.com/2011/06/observer.html
