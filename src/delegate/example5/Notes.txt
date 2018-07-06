@@ -1,0 +1,5 @@
+Design Pattern - Delegate Pattern.  Arquitectura Java
+
+- Ayuda de Eclipse generar métodos delegados 
+
+https://www.arquitecturajava.com/eclipse-y-el-concepto-de-delegacion/

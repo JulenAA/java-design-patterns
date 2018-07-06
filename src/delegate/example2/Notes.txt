@@ -1,0 +1,3 @@
+Design Pattern - Delegate Pattern. 
+
+http://jsbsan.blogspot.com/2013/12/patron-delegation-ejemplo-empleado-de.html

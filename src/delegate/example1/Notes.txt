@@ -1,0 +1,3 @@
+Design Pattern - Delegate Pattern. Cristian Henao (codejavu)
+
+http://codejavu.blogspot.com/2013/06/ejemplo-patron-delegate.html

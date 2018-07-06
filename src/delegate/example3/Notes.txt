@@ -1,0 +1,3 @@
+Design Pattern - Delegate Pattern. Ingenio DS
+
+https://ingeniods.wordpress.com/2013/09/11/delegation-patron-de-diseno/
