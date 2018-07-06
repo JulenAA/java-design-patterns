@@ -1,0 +1,7 @@
+Design Pattern - Observer Pattern. Santiago Faci (Code & Coke)
+
+Programación de Servicios y Procesos - http://psp.codeandcoke.com/start
+
+Teoría http://psp.codeandcoke.com/apuntes:threads
+
+https://github.com/codeandcoke/java-concurrencia/blob/master/PatronObserver/src/org/sfsoft/patronobserver/Principal.java

@@ -1,0 +1,3 @@
+Design Pattern - Singleton Pattern. Arquitectura Java
+
+https://www.arquitecturajava.com/ejemplo-de-java-singleton-patrones-classloaders/

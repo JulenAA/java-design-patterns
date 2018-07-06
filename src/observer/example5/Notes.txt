@@ -1,0 +1,3 @@
+Design Pattern - Observer Pattern. Daniel García
+
+https://danielggarcia.wordpress.com/2014/06/02/patrones-de-comportamiento-vi-patron-observer/

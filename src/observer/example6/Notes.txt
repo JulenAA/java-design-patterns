@@ -1,0 +1,3 @@
+Design Pattern - Observer Pattern. 
+
+Libro "Patrones de diseño en Java"
