@@ -1,0 +1,3 @@
+Design Pattern - Composite Pattern. GeeksforGeeks
+
+https://www.geeksforgeeks.org/composite-design-pattern/

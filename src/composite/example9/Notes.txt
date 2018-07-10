@@ -1,0 +1,3 @@
+Design Pattern - Composite Pattern. Arquitectura Java
+
+https://www.arquitecturajava.com/java-composite-pattern-y-recursividad/

@@ -1,0 +1,3 @@
+Design Pattern - Composite Pattern. 
+
+https://github.com/iluwatar/java-design-patterns/blob/master/composite/src/main/java/com/iluwatar/composite/App.java

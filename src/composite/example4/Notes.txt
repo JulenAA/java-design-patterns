@@ -1,0 +1,3 @@
+Design Pattern - Composite Pattern. Blog Seas (Juan José Hernandez)
+
+https://www.seas.es/blog/informatica/patrones-de-diseno-en-java-patron-composite/
