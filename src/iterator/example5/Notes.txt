@@ -1,0 +1,4 @@
+Design Pattern - Iterator Pattern. Daniel Garcia
+
+https://danielggarcia.wordpress.com/2014/04/14/patrones-de-comportamiento-i-patron-iterator/
+
